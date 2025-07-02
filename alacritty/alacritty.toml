@@ -1,0 +1,19 @@
+[window]
+padding = { x = 7, y = 7 }
+opacity = 0.75
+
+[font]
+normal.family      = "Hack"
+bold.family        = "Hack"
+italic.family      = "Hack"
+bold_italic.family = "Hack"
+size = 8
+
+[cursor.style]
+shape = "Beam"
+blinking = "On"
+
+[cursor]
+blink_interval = 500
+thickness = 0.15
+
